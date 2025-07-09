@@ -1,0 +1,12 @@
+@import "tailwindcss";
+.hide-scrollbar {
+  overflow: auto;                     /* or 'scroll' if you want it always scrollable */
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;                      /* Hides scrollbar */
+}
+
+input{
+    background: #f4f4f4;
+}

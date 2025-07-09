@@ -1,4 +1,4 @@
-const { user } = require("../models/Authschema");
+const { user } = require("../models/AuthSchema");
 
 user
 
